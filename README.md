@@ -31,4 +31,8 @@ jupyter-notebook
 
 '''
 
+git check out for rolback
+
+git checkout
+
 
