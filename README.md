@@ -20,3 +20,15 @@ conda create --prefix ./env python=3.7 -y
 ## To activate env
 conda activate ./env
 
+# To make directory
+'''
+mkdir Research1_env
+''
+
+# jupyter notebook 
+'''
+jupyter-notebook
+
+'''
+
+
