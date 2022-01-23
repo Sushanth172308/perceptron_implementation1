@@ -35,6 +35,8 @@ git check out for rolback
 
 git checkout
 
+# deleted virtual env
+
  
 
 
